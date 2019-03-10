@@ -2,6 +2,7 @@
 
 An Android based darkroom enlarger timer using f-stop timing techniques.
 
+
 The app is built using the MIT App Inventor 2 development environment [AI2](https://appinventor.mit.edu)
 
 The electronically literate can add hardware to switch the lamp on and off via the phone's WiFi.  See the manual for details.  
