@@ -13,7 +13,7 @@ Even without WiFi switching hardware, the timer has been made useful when manual
 
 ## Latest
 
-24-Mar-2019: wip branch version 1.3.4.  On the STRIPS tab I have added a "SINGLE" mode.  This mode may be used when you want to take your test strips from the same area of the negative each time -  tis is useful when you have a very important area or if the rest of the negative does not have the full range of tones necessary to get good test strips.  Similar to the MANUAL mode, but each strip exposure is the full f-stop incemental exposure for that strip and not an incemental one based on the previous strip.  This also now makes the MAIN tab's F-stop Mode section completely obsolete so that needs to go.  All I need to do now is to decide what to do with all that new space :-).
+24-Mar-2019: wip branch version 1.3.4.  On the STRIPS tab I have added a "SINGLE" mode.  This mode may be used when you want to take your test strips from the same area of the negative each time.  This is useful when you have a very important area, or if the rest of the negative does not have the full range of tones necessary to get good test strips.  It is similar to the MANUAL mode, but each strip exposure is the full f-stop incemental exposure for that strip and not an incemental one based on the previous strip.  This update makes the MAIN tab's F-stop Mode section completely obsolete, so that needs to go.  All I need to do now is to decide what to do with all that new space :-).
 
 
 
