@@ -1,4 +1,4 @@
-# Film and Darkroom User F-Stop Enlarger Timer
+# Film and Darkroom User (FADU) F-Stop Enlarger Timer
 
 An Android based darkroom enlarger timer using f-stop timing techniques.
 
