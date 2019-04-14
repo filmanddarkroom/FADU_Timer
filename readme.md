@@ -22,6 +22,7 @@ Changing Mode now updates the strip-time list - other selections already did thi
 
 -----
 
+=======
 09-Apr-2019: wip branch version 1.3.4.  
 
 The app now scales well when used on a tablet.
@@ -30,14 +31,11 @@ Memories now show their contents.  Space was made for this by shoving the now la
 
 I have updated the manual to include the changes since 1.3.0 and the instructions now include the Sonoff Basic Wi-Fi switch.  I may make a reprogrammed version of this available on Tindie - TBA.
 
------
-
+======
 March-2019:  On the STRIPS tab I have added a "SINGLE" mode.  This mode may be used when you want to take your test strips from the same area of the negative each time.  This is useful when you have a very important area, or if the rest of the negative does not have the full range of tones necessary to get good test strips.  It is similar to the MANUAL mode, but each strip exposure is the full f-stop incemental exposure for that strip and not an incemental one based on the previous strip.  This update makes the MAIN tab's F-stop Mode section efectively obsolete, so that needs to go.  
 
------
-
-
-
+=======
+March-2019:  On the STRIPS tab I have added a "SINGLE" mode.  This mode may be used when you want to take your test strips from the same area of the negative each time.  This is useful when you have a very important area, or if the rest of the negative does not have the full range of tones necessary to get good test strips.  It is similar to the MANUAL mode, but each strip exposure is the full f-stop incemental exposure for that strip and not an incemental one based on the previous strip.  This update makes the MAIN tab's F-stop Mode section efectively obsolete, so that needs to go.  
 
 
 ## Getting Started
