@@ -13,28 +13,34 @@ Even without WiFi switching hardware, the timer has been made useful when manual
 
 ## Latest
 
-### 14-Apr-2019: wip branch version 1.3.4.
+### 14-Apr-2019: Version 1.4.0 released.
 
-Some small tweaks:
+1) Single strip mode [SINGLE] added for when you are using individual strips of paper instead of making multiple strips across a sheet of paper. Each strip-time is for the whole f-stop calculated exposure.
 
-Changed Strips tab's left side config title to "SET MODE" (still don't like it, but will have to do for now).  
-Changing Mode now updates the strip-time list - other selections already did this but adding the SINGLE mode means this button should do so too now.
+(2) The Memories now display their contents.
 
------
+(3) Now scales (mostly) correctly for tablets.
 
-=======
-09-Apr-2019: wip branch version 1.3.4.  
+(4) Main tab's F-stop Mode now reduced as all it's functionality now moved to the Strips tab.
 
-The app now scales well when used on a tablet.
-
-Memories now show their contents.  Space was made for this by shoving the now largely obsolete f-stop calculation section on the Main tab to the right of the display and using the released space to show the values held in the Memories.
+Space was made for displaying the memory's contents by shoving the now largely obsolete f-stop calculation section on the Main tab to the right of the display.
 
 I have updated the manual to include the changes since 1.3.0 and the instructions now include the Sonoff Basic Wi-Fi switch.  I may make a reprogrammed version of this available on Tindie - TBA.
 
+
+Some small tweaks:
+
+Changed the Strips tab left side config title to "SET MODE" (still don't like it, but will have to do for now).  
+
+Changing strip Mode to [SINGLE] now updates the strip-time list - other selections already did this but adding the SINGLE mode means this button should do so too now.
+
+
 ======
+
 March-2019:  On the STRIPS tab I have added a "SINGLE" mode.  This mode may be used when you want to take your test strips from the same area of the negative each time.  This is useful when you have a very important area, or if the rest of the negative does not have the full range of tones necessary to get good test strips.  It is similar to the MANUAL mode, but each strip exposure is the full f-stop incemental exposure for that strip and not an incemental one based on the previous strip.  This update makes the MAIN tab's F-stop Mode section efectively obsolete, so that needs to go.  
 
 =======
+
 March-2019:  On the STRIPS tab I have added a "SINGLE" mode.  This mode may be used when you want to take your test strips from the same area of the negative each time.  This is useful when you have a very important area, or if the rest of the negative does not have the full range of tones necessary to get good test strips.  It is similar to the MANUAL mode, but each strip exposure is the full f-stop incemental exposure for that strip and not an incemental one based on the previous strip.  This update makes the MAIN tab's F-stop Mode section efectively obsolete, so that needs to go.  
 
 
