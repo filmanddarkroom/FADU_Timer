@@ -13,6 +13,14 @@ Even without WiFi switching hardware, the timer has been made useful when manual
 
 ## Latest
 
+14-Apr-2019: wip branch version 1.3.4.
+
+Some small tweaks: 
+
+	Changed Strips tab's left side config title to "SET MODE" (still don't like it, but will have to do for now).  
+	Changing Mode now updates the strip-time list - other selections already did this but adding the SINGLE mode means this button should do so too now.
+
+
 09-Apr-2019: wip branch version 1.3.4.  
 
 The app now scales well when used on a tablet.
