@@ -17,11 +17,11 @@ Even without WiFi switching hardware, the timer has been made useful when manual
 
 1) Single strip mode [SINGLE] added for when you are using individual strips of paper instead of making multiple strips across a sheet of paper. Each strip-time is for the whole f-stop calculated exposure.
 
-(2) The Memories now display their contents.
+2) The Memories now display their contents.
 
-(3) Now scales (mostly) correctly for tablets.
+3) Now scales (mostly) correctly for tablets.
 
-(4) Main tab's F-stop Mode now reduced as all it's functionality now moved to the Strips tab.
+4) Main tab's F-stop Mode now reduced as all it's functionality now moved to the Strips tab.
 
 Space was made for displaying the memory's contents by shoving the now largely obsolete f-stop calculation section on the Main tab to the right of the display.
 
