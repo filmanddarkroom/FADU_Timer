@@ -45,12 +45,15 @@ March-2019:  On the STRIPS tab I have added a "SINGLE" mode.  This mode may be u
 
 ## Getting Started
 
+
+Because the App Inventor source code does not exist in a form that can be used with a repository, the whole .aia file is supplied.  To obtain a copy (along with the rest of the files) use the [Clone or download] button to download the zip file to your PC.
+
+
 There are two branches:
 
 	1) master : holds the currently released version of the app as available on the google play store.
 	
 	2) wip : holds the current work-in-progress development version.  This version may not be stable.
-
 
 
 ### Prerequisites
