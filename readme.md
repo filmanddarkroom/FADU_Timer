@@ -19,18 +19,18 @@ Even without WiFi switching hardware, the timer has been made useful when manual
 
 2) The Memories now display their contents.
 
-3) Now scales (mostly) correctly for tablets.
+3) Scales (mostly) correctly for tablets.
 
-4) Main tab's F-stop Mode now reduced as all it's functionality now moved to the Strips tab.
+4) Main tab's F-stop Mode now reduced as all its functionality is now moved to the Strips tab.
 
-Space was made for displaying the memory's contents by shoving the now largely obsolete f-stop calculation section on the Main tab to the right of the display.  I have left it as it is a quick way of getting incremental values for manual use without having to use the Strips mode tab.
+Space was made for displaying the memory's contents by shoving the now largely obsolete f-stop calculation section on the Main tab to the right of the display.  I have left it because it is a quick way of getting incremental values for manual use without having to use the Strips mode tab.
 
-I have updated the manual to include the changes since 1.3.0 and the instructions now include instructions for programming the Sonoff Basic Wi-Fi switch.  I may make a reprogrammed version of this available on Tindie - TBC.
+I have updated the manual to include the changes since 1.3.0 and the instructions now include details for programming the Sonoff Basic Wi-Fi switch.  
 
 
 Some small tweaks:
 
-Changed the Strips tab left side config title to "SET MODE" (still don't like it, but will have to do for now).  
+Changed the Strips tab left side config title to "SET MODE".  
 
 Changing strip Mode to [SINGLE] now updates the strip-time list - other selections already did this but now this does so too.
 
