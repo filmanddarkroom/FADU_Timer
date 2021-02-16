@@ -13,6 +13,16 @@ Even without WiFi switching hardware, the timer has been made useful when manual
 
 ## Latest
 
+### 16-Feb-2021: Version 1.4.1
+
+1) Added ability to select a Sonoff DIY mode R3 device.  Tested with a Mini R3.  Option "BASIC R3" added to the Settings tab's "Lamp Controller" section.   To use: Place your R3 device into DIY mode per Sonoff's instructions.  Once working in DIY mode, set the IP Address of the R3 device in the IP ADDRESS section in the SETTINGS tab (just the IP address, do not add the port etc - this is added in the app's code)  e.g. ###192.168.0.22 
+
+2) Also added ability to use the camera's lamp LED.  Not entirely sure what use this is except for demo purposes.  Possibly for flashing paper if you add a diffuser over the LED and use the Delay setting to give you time to raise it to the right height after setting the time?
+
+3)  Added individual volume controls for the various beeps and buzzes (scroll down the SETTINGS tab if you don't see them).  A bit tricky to use due to being small (and no way I could find in App Inventor to make them larger).
+
+
+
 ### 14-Apr-2019: Version 1.4.0 released.
 
 1) Single strip mode [SINGLE] added for when you are using individual strips of paper instead of making multiple strips across a sheet of paper. Each strip-time is for the whole f-stop calculated exposure.
