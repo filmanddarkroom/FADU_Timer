@@ -1,8 +1,10 @@
 # Film and Darkroom User (FADU) F-Stop Enlarger Timer
 
-An Android based darkroom enlarger timer using f-stop timing techniques.
 
-*** NOTE THIS IS THE DEVELOPMENT BRANCH - THIS VERSION MAY OR MAY NOT HAVE UNEXPECTED ADDITIONAL "FEATURES" THAT CAUSE IT TO NOT WORK CORRECTLY ***
+**NOTE THIS IS THE DEVELOPMENT BRANCH - THIS VERSION MAY OR MAY NOT HAVE UNEXPECTED ADDITIONAL "FEATURES" THAT CAUSE IT TO NOT WORK CORRECTLY**
+
+
+An Android based darkroom enlarger timer using f-stop timing techniques.
 
 The app is built using the MIT App Inventor 2 development environment [AI2](https://appinventor.mit.edu)
 
@@ -16,7 +18,7 @@ It is now possible to program the Sonoff Mini and Basic over the air (OTA), remo
 
 ### 16-Feb-2021: Version 1.4.1
 
-1) Added ability to select a Sonoff R3 device in DIY mode.  Tested with a Mini R3.  Option "BASIC R3" added to the Settings tab's "Lamp Controller" section.   To use: Place your R3 device into DIY mode per Sonoff's instructions.  Once working in DIY mode, set the IP Address of the R3 device in the IP ADDRESS section in the SETTINGS tab (just the IP address, do not add the port etc - this is added in the app's code):  e.g. ***192.168.0.22
+1) Added ability to select a Sonoff R3 device in DIY mode.  Tested with a Mini R3.  Option "BASIC R3" added to the Settings tab's "Lamp Controller" section.   To use: Place your R3 device into DIY mode per Sonoff's instructions.  Once working in DIY mode, set the IP Address of the R3 device in the IP ADDRESS section in the SETTINGS tab (just the IP address, do not add the port etc - this is added in the app's code):  e.g. **192.168.0.22**
  
 The downside of this mode is that all the on and off signals go via your WiFi router which adds random delays of typically 5 - 100ms on my network and occasionally more.  100ms is just under 1/8th of a stop for a 1 second time exposure so you will need to consider if this is still sufficient accuracy for your purposes.  If you have a spare WiFi router then creating a separate network and dedicating this to the timer would make these delays both smaller and much less random in duration allowing you to use the timer's Lamp Adjust setting to compensate. I have not tried this but it should work well (in theory!).
  
