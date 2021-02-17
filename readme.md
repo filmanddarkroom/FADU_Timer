@@ -4,17 +4,6 @@
 **NOTE THIS IS THE DEVELOPMENT BRANCH - THIS VERSION MAY OR MAY NOT HAVE UNEXPECTED ADDITIONAL "FEATURES" THAT CAUSE IT TO NOT WORK CORRECTLY**
 
 
-An Android based darkroom enlarger timer using f-stop timing techniques.
-
-The app is built using the MIT App Inventor 2 development environment [AI2](https://appinventor.mit.edu)
-
-The electronically literate can add hardware to switch the lamp on and off via the phone's WiFi.  See the manual for details.  
-
-Even without WiFi switching hardware, the timer has been made useful when manually switching the enlarger's lamp by adding a count-in delay and providing a continuous test-strip mode with audio warnings before each subsequent strip exposure.
-
-It is now possible to program the Sonoff Mini and Basic over the air (OTA), removing the need to use additional hardware (FTDI moards etc) to program these devices.  I will be adding information in the manual in the next release but in the meantime instructions are available for Spanish speakers by Arial Till here: https://www.lasnuevemusas.com/timer-por-pasos-para-ampliadora-en-tu-telefono-movil/ - Google Translate does a good job for non-Spanish readers.
-
-## Latest
 
 ### 16-Feb-2021: Version 1.4.1
 
