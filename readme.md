@@ -9,17 +9,21 @@ The electronically literate can add hardware to switch the lamp on and off via t
 
 Even without WiFi switching hardware, the timer has been made useful when manually switching the enlarger's lamp by adding a count-in delay and providing a continuous test-strip mode with audio warnings before each subsequent strip exposure.
 
-
+It is now possible to program the Sonoff Mini and Basic over the air (OTA) removing the need to use additional hardware (FTDI moards etc) to program these devices.  I will be adding information in the manual presently but in the meantime instructions are available for Spanish speakers by Arial Till here: https://www.lasnuevemusas.com/timer-por-pasos-para-ampliadora-en-tu-telefono-movil/ - google Translate does a good job for non-Spanish readers.
 
 ## Latest
 
 ### 16-Feb-2021: Version 1.4.1
 
-NOTE THIS IS THE DEVELOPMENT BRANCH - THIS MAY OR MAY NOT HAVE UNEXPECTED "FEATURES"
+NOTE THIS IS THE DEVELOPMENT BRANCH - THIS VERSION MAY OR MAY NOT HAVE UNEXPECTED ADDITIONAL "FEATURES" THAT CAUSE IT TO NOT WORK CORRECTLY
 
-1) Added ability to select a Sonoff DIY mode R3 device.  Tested with a Mini R3.  Option "BASIC R3" added to the Settings tab's "Lamp Controller" section.   To use: Place your R3 device into DIY mode per Sonoff's instructions.  Once working in DIY mode, set the IP Address of the R3 device in the IP ADDRESS section in the SETTINGS tab (just the IP address, do not add the port etc - this is added in the app's code):  e.g. 192.168.0.22 
+1) Added ability to select a Sonoff R3 device in DIY mode.  Tested with a Mini R3.  Option "BASIC R3" added to the Settings tab's "Lamp Controller" section.   To use: Place your R3 device into DIY mode per Sonoff's instructions.  Once working in DIY mode, set the IP Address of the R3 device in the IP ADDRESS section in the SETTINGS tab (just the IP address, do not add the port etc - this is added in the app's code):  e.g. 192.168.0.22 
+ 
+The downside of this mode is that all the on and off signals go via your WiFi router which adds random delays of typically 5 - 100ms on my network and occasionally more.  100ms is just under 1/8th of a stop for a 1 second time exposure so you will need to consider if this is still sufficient accuracy for your purposes.  If you have a spare WiFi router then creating a separate network and dedicating this to the timer would make these delays both smaller and much less random in duration allowing you to use the timer's Lamp Adjust setting to compensate. I have not tried this but it should work well (in theory!).
+ 
 
-2) Also added ability to use the camera's lamp LED.  Not entirely sure what use this is except for demo purposes.  Possibly for flashing paper if you add a diffuser over the LED and use the Delay setting to give you time to raise it to the right height after setting the time?
+2) Also added ability to use the camera's lamp LED.  I'm not entirely sure what use this is except for demo purposes.  Possibly could be used for flashing paper if you add a diffuser over the LED and use the Delay setting to give you time to raise it to the right height after setting the time?
+
 
 3)  Added individual volume controls for the various beeps and buzzes (scroll down the SETTINGS tab if you don't see them).  A bit tricky to use due to being small (and no way I could find in App Inventor to make them larger).  The settings are reloaded the next time the app is launched.
 
