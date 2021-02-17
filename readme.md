@@ -12,7 +12,7 @@
 The downside of this mode is that all the on and off signals go via your WiFi router which adds random delays of typically 5 - 100ms on my network and occasionally more.  100ms is just under 1/8th of a stop for a 1 second time exposure so you will need to consider if this is still sufficient accuracy for your purposes.  If you have a spare WiFi router then creating a separate network and dedicating this to the timer would make these delays both smaller and much less random in duration allowing you to use the timer's Lamp Adjust setting to compensate. I have not tried this but it should work well (in theory!).
  
 
-2) Added the ability to use the camera's lamp LED.  I'm not entirely sure what use this is except for demo purposes.  Possibly could be used for flashing paper if you add a diffuser over the LED and use the Delay setting to give you time to raise it to the right height after setting the time.  Light activated relay boards do exist but keeping the bright light out of the rest of the darkroom may prove difficult...
+2) Added the ability to use the camera's flash LED.  I'm not entirely sure what use this is except for demo purposes.  Possibly could be used for flashing paper if you add a diffuser over the LED and use the Delay setting to give you time to raise it to the right height after setting the time.  Light activated relay boards do exist but keeping the bright light out of the rest of the darkroom may prove difficult...
 
 
 3) Added individual volume controls for the various beeps and buzzes (scroll down the SETTINGS tab if you don't see them).  A bit tricky to use due to being small (and no way I could find in App Inventor to make them larger).  The settings are reloaded the next time the app is launched.
