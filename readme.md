@@ -40,11 +40,6 @@ Changed the Strips tab left side config title to "SET MODE" (still don't like it
 
 Changing strip Mode to [SINGLE] now updates the strip-time list - other selections already did this but now this does so too.
 
-
-======
-
-March-2019:  On the STRIPS tab I have added a "SINGLE" mode.  This mode may be used when you want to take your test strips from the same area of the negative each time.  This is useful when you have a very important area, or if the rest of the negative does not have the full range of tones necessary to get good test strips.  It is similar to the MANUAL mode, but each strip exposure is the full f-stop exposure time for that strip and not an incemental one based on the previous strip.  This update makes the MAIN tab's F-stop Mode section efectively obsolete.
-
 =======
 
 
