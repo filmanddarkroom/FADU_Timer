@@ -5,7 +5,7 @@
 
 
 
-### 16-Feb-2021: Work In Progress Version 1.4.1
+### 24-Feb-2021: Work In Progress Version 1.4.1_0 [believed stable]
 
 1) Added the ability to select a Sonoff R3 device in DIY mode.  Tested with a Mini R3 running version 3.5 of the Sonoff firmware.  Option "BASIC R3" added to the Settings tab's "Lamp Controller" section.   To use: Place your R3 device into DIY mode per Sonoff's instructions.  Once working in DIY mode, set the IP Address of the R3 device in the IP ADDRESS section in the SETTINGS tab (just the IP address, do not add the port etc - this is added in the app's code):  e.g. **192.168.0.22** It may be a freak of my network router but I had to use Fing on my phone to find the device's IP address - it did not appear on my router's list of connected devices - very odd.
  
@@ -16,6 +16,9 @@ The downside of this mode is that all the on and off signals go via your WiFi ro
 
 
 3) Added individual volume controls for the various beeps and buzzes (scroll down the SETTINGS tab if you don't see them).  A bit tricky to use due to being small (and no way I could find in App Inventor to make them larger).  The settings are reloaded the next time the app is launched.
+
+
+4) You no longer need to use the [SET] button on the STRIPS tab: the strips times automatically update when changing the base time.  Refreshing the strip times for each tap of the display does slow things down a little but this should not be a major irritation and avoids the error of forgetting to tap the [SET] button.  The [SET] button is retained although it is now mostly redundant.
 
 
 
