@@ -5,7 +5,7 @@
 
 
 
-### 24-Feb-2021: Work In Progress Version 1.4.1_1 [believed stable]
+### 24-Feb-2021: Work In Progress Version 1.4.1.1 [believed stable]
 
 1) Added the ability to select a Sonoff R3 device in DIY mode.  Tested with a Mini R3 running version 3.5 of the Sonoff firmware.  Option "BASIC R3" added to the Settings tab's "Lamp Controller" section.   To use: Place your R3 device into DIY mode per Sonoff's instructions.  Once working in DIY mode, set the IP Address of the R3 device in the IP ADDRESS section in the SETTINGS tab (just the IP address, do not add the port etc - this is added in the app's code):  e.g. **192.168.0.22** It may be a freak of my network router but I had to use Fing on my phone to find the device's IP address - it did not appear on my router's list of connected devices - very odd.
  
