@@ -21,6 +21,9 @@ The downside of this mode is that all the on and off signals go via your WiFi ro
 4) You no longer need to use the [SET] button on the STRIPS tab: the strips times automatically update when changing the base time.  Refreshing the strip times for each tap of the display does slow things down a little but this should not be a major irritation and avoids the error of forgetting to tap the [SET] button.  The [SET] button is retained although it is now mostly redundant.
 
 
+The manual still requires updating from release version 1.4.
+
+
 
 ### 14-Apr-2019: Version 1.4.0 released.
 
