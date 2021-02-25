@@ -25,31 +25,6 @@ The manual still requires updating from release version 1.4.
 
 
 
-### 14-Apr-2019: Version 1.4.0 released.
-
-1) Single strip mode [SINGLE] added for when you are using individual strips of paper instead of making multiple strips across a sheet of paper. Each strip-time is for the whole f-stop calculated exposure.
-
-2) The Memories now display their contents.
-
-3) Now scales (mostly) correctly for tablets.
-
-4) Main tab's F-stop Mode now reduced as all its functionality now moved to the Strips tab.
-
-Space was made for displaying the memory's contents by shoving the now largely obsolete f-stop calculation section on the Main tab to the right of the display.  I have left it as it is a quick way of getting incremental values for manual use without having to use the Strips mode tab.
-
-I have updated the manual to include the changes since 1.3.0 and the instructions now include instructions for programming the Sonoff Basic Wi-Fi switch.  
-
-
-Some small tweaks:
-
-Changed the Strips tab left side config title to "SET MODE" (still don't like it, but will have to do for now).  
-
-Changing strip Mode to [SINGLE] now updates the strip-time list - other selections already did this but now this does too.
-
-=======
-
-
-
 ## Getting Started
 
 There are two branches:
