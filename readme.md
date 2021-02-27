@@ -5,7 +5,9 @@
 
 
 
-### 26-Feb-2021: Work In Progress Version 1.4.2 [believed stable]
+### 27-Feb-2021: Work In Progress Version 1.4.2 [believed stable]
+
+Have uploaded the latest revision of the manual 1.5.0 (unfinished).
 
 1) Added [PULSE R3] mode.  Similar to (2) below but uses the "inching" mode of the R3 DIY mode API to send fixed duration lamp-on commands to the Basic R3 or Mini R3 in DIY mode. For example, we send a command that says "switch on for 17.5 seconds and then switch yourself off".  So the app does not need to send the OFF signal and hence avoids random timing delays through the router.  Set [PULSE R3] to use.  
 
