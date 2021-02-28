@@ -5,7 +5,7 @@
 
 
 
-### 27-Feb-2021: Work In Progress Version 1.4.2 [believed stable]
+### 27-Feb-2021: Work In Progress Pre-release Version 1.5.0 [believed stable]
 
 Have uploaded the latest revision of the manual 1.5.0 (unfinished).
 
