@@ -9,7 +9,7 @@
 
 Have uploaded the latest revision of the manual 1.5.0 (unfinished).
 
-1) Added [PULSE R3] mode.  Similar to (2) below but uses the "inching" mode of the R3 DIY mode API to send fixed duration lamp-on commands to the Basic R3 or Mini R3 in DIY mode. For example, we send a command that says "switch on for 17.5 seconds and then switch yourself off".  So the app does not need to send the OFF signal and hence avoids random timing delays through the router.  Set [PULSE R3] to use.  
+1) Added [PULSE R3] mode.  Similar to (2) below but uses the "inching" mode of the R3 DIY mode API to send fixed duration lamp-on commands to the Basic R3 or Mini in DIY mode. For example, we send a command that says "switch on for 17.5 seconds and then switch yourself off".  So the app does not need to send the OFF signal and hence avoids random timing delays through the router.  Set [PULSE R3] to use.  
 
 Sonoff have once again messed things up - in this case by only allowing multiples of half a second to be set.  This does not help with accuracy, but is not as bad as it first seems for typical lamp ON times of several seconds and it does at least mean that the timing is consistent, which you could argue is more important.  15.3 seconds on the timer's display (or calculated by the timer) will actually result in 15.5 seconds of light but at least it will always be 15.5 seconds with no variation caused by random router delays.  
 
