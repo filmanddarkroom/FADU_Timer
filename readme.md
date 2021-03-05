@@ -17,7 +17,7 @@ Even without WiFi switching hardware, the timer has been made useful when manual
 
 1.5.0 released to the google play store 2 days ago, but google is taking forever to approve.
 
-.APK .AIA and updated documentation here in the master branch.
+In the meantime, the .APK .AIA and updated documentation are here in the master branch.
 
 (1) Can now use a Sonoff BASIC R3 (or MINI) version in DIY mode.  Select  [BASIC R3].  This removes the need to reprogram the device's firmware but the lamp control signals go through your local router, introducing small random delays.  See the manual for details.
 
