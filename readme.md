@@ -5,7 +5,14 @@
 
 
 
-### 27-Feb-2021: Work In Progress Pre-release Version 1.5.0 [believed stable]
+### 04-Mar-2021: 1.5.1 first update [believed stable]
+
+Google are taking forever to approve the 1.5.0 update.  I will let them authorise the existing update before uploading this one...
+
+I have posted 1.5.1 in the wip branch which has the added ability to switch between Red and Green displays.  This should be of use for colour printers but as colour paper is much more sensitive than B&W paper make sure the brightness is low and preferably use some black card or similar to shield the timer from the paper.  It is unlikely that the phone's green will be in colour paper's insensitivity sweet-spot (if modern colour paper even has one) but our eyes are most sensitive to green so worst-case, using green allows the backlight to be kept dimmer than it would be if it was still red.  I do not print in colour so I have no practical experience to offer...
+
+
+### 28-Feb-2021 Pre-release 1.5.0 posted.
 
 Have uploaded the latest revision of the manual 1.5.0 (unfinished).
 
