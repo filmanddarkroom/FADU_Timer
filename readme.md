@@ -19,6 +19,18 @@ Even without WiFi switching hardware, the timer has been made useful when manual
 
 .APK .AIA and updated documentation here in the master branch.
 
+(1) Can now use a Sonoff BASIC R3 (or MINI) version in DIY mode.  Select  [BASIC R3].  This removes the need to reprogram the device's firmware but the lamp control signals go through your local router, introducing small random delays.  See the manual for details.
+
+(2) Same as (1) but using DIY mode's 'Inching' API to avoid router-inflicted network delays.  Select [Pulse R3].  The Sonoff API requires all times be rounded to the nearest 0.5s but see the manual where this is shown to be not a major problem in practice.
+
+(3)  Added the ability to use the camera's LED on the back of the phone or tablet.  Potentially useful for pre-flashing paper.
+
+(4)  Added Individual volume controls for the various ticks and beeps.  These settings are stored when changed and reloaded at each startup. 
+
+(5) Strip times now auto-updade when changing the base time or opening the STRIPS tab.
+
+Thanks to Ariel Till <tillari@yahoo.com> who provided instructions on how to update the firmware using OTA.  His original instructions in Spanish are here: https://www.lasnuevemusas.com/timer-por-pasos-para-ampliadora-en-tu-telefono-movil/  An English language version is in the manual.
+
 
 
 ### 14-Apr-2019: Version 1.4.0 released.
