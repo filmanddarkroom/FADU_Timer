@@ -13,6 +13,14 @@ Even without WiFi switching hardware, the timer has been made useful when manual
 
 ## Latest
 
+### 03-Mar-2021:  Version 1.5.0 released
+
+1.5.0 released to the google play store 2 days ago, but google is taking forever to approve.
+
+.APK .AIA and updated documentation here in the master branch.
+
+
+
 ### 14-Apr-2019: Version 1.4.0 released.
 
 1) Single strip mode [SINGLE] added for when you are using individual strips of paper instead of making multiple strips across a sheet of paper. Each strip-time is for the whole f-stop calculated exposure.
