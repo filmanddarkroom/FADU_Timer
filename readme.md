@@ -6,6 +6,10 @@
 
 ### 08-Mar-2021: 1.5.1 update [believed stable]
 
+
+Google still not approved 1.5.0...  In te meantime, in a flurry of activity (?!)...
+
+
 Change log:
 
 1)  Added functionality to switch the display between Red and Green - potentially useful for colour printing.  Keep the backlight brightness as low as possible as colour paper is very sensitive.  The setting is stored between restarts.
