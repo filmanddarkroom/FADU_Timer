@@ -7,7 +7,7 @@
 ### 08-Mar-2021: 1.5.1 update [believed stable]
 
 
-Google still not approved 1.5.0...  In te meantime, in a flurry of activity (?!)...
+Google still not approved 1.5.0.  In the meantime, in a flurry of activity (and lock-down boredom) ...
 
 
 Change log:
