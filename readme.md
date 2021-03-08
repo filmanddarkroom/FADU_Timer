@@ -4,12 +4,19 @@
 **NOTE THIS IS THE DEVELOPMENT BRANCH - THIS VERSION MAY OR MAY NOT HAVE UNEXPECTED ADDITIONAL "FEATURES" THAT CAUSE IT TO NOT WORK CORRECTLY**
 
 
+### 08-Mar-2021: 1.5.1 update [believed stable]
+
+Change log:
+
+1)  Added functionality to switch the display between Red and Green - potentially useful for colour printing.  Keep the backlight brightness as low as possible as colour paper is very sensitive.  The setting is stored between restarts.
+
+2)  Can now sequence through the first 5 memories.  Lamp hardware is disabled during this time.  If the RUN button is not visible on smaller screens, use a long-press on the FOCus button instead.  Honours the Delay and Tick Mode settings.
 
 ### 04-Mar-2021: 1.5.1 first update [believed stable]
 
 Google are taking forever to approve the 1.5.0 update.  I will let them authorise the existing update before uploading this one...
 
-I have posted 1.5.1 in the wip branch which has the added ability to switch between Red and Green displays.  This should be of use for colour printers but as colour paper is much more sensitive than B&W paper make sure the brightness is low and preferably use some black card or similar to shield the timer from the paper.  It is unlikely that the phone's green will be in colour paper's insensitivity sweet-spot (if modern colour paper even has one) but our eyes are most sensitive to green so worst-case, using green allows the backlight to be kept dimmer than it would be if it was still red.  I do not print in colour so I have no practical experience to offer...
+I have posted 1.5.1 in the wip branch which- have started to add the ability to switch between Red and Green displays.  This should be of use for colour printers but as colour paper is much more sensitive than B&W paper make sure the brightness is low and preferably use some black card or similar to shield the timer from the paper.  It is unlikely that the phone's green will be in colour paper's insensitivity sweet-spot (if modern colour paper even has one) but our eyes are most sensitive to green so worst-case, using green allows the backlight to be kept dimmer than it would be if it was still red.  I do not print in colour so I have no practical experience to offer...
 
 
 ### 28-Feb-2021 Pre-release 1.5.0 posted.
