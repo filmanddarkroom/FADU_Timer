@@ -4,7 +4,7 @@
 **NOTE THIS IS THE DEVELOPMENT BRANCH - THIS VERSION MAY OR MAY NOT HAVE UNEXPECTED ADDITIONAL "FEATURES" THAT CAUSE IT TO NOT WORK CORRECTLY**
 
 
-### 08-Mar-2021: 1.5.1 third update [believed stable]
+### 09-Mar-2021: 1.5.1 third update [believed stable]
 
 Google finally approved 1.5.0. It is now live in the Play Store.  
 
