@@ -4,17 +4,19 @@
 **NOTE THIS IS THE DEVELOPMENT BRANCH - THIS VERSION MAY OR MAY NOT HAVE UNEXPECTED ADDITIONAL "FEATURES" THAT CAUSE IT TO NOT WORK CORRECTLY**
 
 
-### 08-Mar-2021: 1.5.1 update [believed stable]
+### 09-Mar-2021: 1.5.1 update [believed stable]
 
 
-Google still not approved 1.5.0.  In the meantime, in a flurry of activity (and lock-down boredom) ...
-
+Google finally approved 1.5.0. It is now live in teh Play Store.  In the meantime, in a flurry of activity (and lock-down boredom) we have 1.5.1 ...
 
 Change log:
 
 1)  Added functionality to switch the display between Red and Green - potentially useful for colour printing.  Keep the backlight brightness as low as possible as colour paper is very sensitive.  The setting is stored between restarts.
 
-2)  Can now sequence through the first 5 memories.  Lamp hardware is disabled during this time.  If the RUN button is not visible on smaller screens, use a long-press on the FOCus button instead.  Honours the Delay and Tick Mode settings.
+2)  Can now sequence through the first 5 memories.  As this is intended for paper processing steps, lamp switching hardware is disabled during this time.  If the RUN button is not visible on smaller screens, use a long-press on the FOCus button instead.  Honours the Delay and Tick Mode settings.
+
+3) Re-jigged the way numbers and f-stops are selected to make them MUCH LARGER and easier to select.
+
 
 ### 04-Mar-2021: 1.5.1 first update [believed stable]
 
