@@ -4,10 +4,19 @@
 **NOTE THIS IS THE DEVELOPMENT BRANCH - THIS VERSION MAY OR MAY NOT HAVE UNEXPECTED ADDITIONAL "FEATURES" THAT CAUSE IT TO NOT WORK CORRECTLY**
 
 
-### 09-Mar-2021: 1.5.1 update [believed stable]
+### 08-Mar-2021: 1.5.1 third update [believed stable]
+
+Google finally approved 1.5.0. It is now live in the Play Store.  
+
+3) I finally got annoyed enough and spent all day re-jigging the way numbers and f-stops are selected to make them MUCH LARGER and easier to select.
+
+Unless I get bored (or sufficiently annoyed) again, this will be the last change for a while and I will upload it to the play store in a week or so.
 
 
-Google finally approved 1.5.0. It is now live in teh Play Store.  In the meantime, in a flurry of activity (and lock-down boredom) we have 1.5.1 ...
+### 08-Mar-2021: 1.5.1 second update [believed stable]
+
+
+Still waiting for Google to approve 1.5.0, but in the meantime, in a flurry of activity (and lock-down boredom) we have 1.5.1 ...
 
 Change log:
 
