@@ -6,7 +6,7 @@
 
 ### 12-Mar-2021: 1.5.1 fifth update [believed stable]
 
-Minor tweaks to new functionality.
+Minor tweaks to new functionality. Updated manual.
 
 
 
