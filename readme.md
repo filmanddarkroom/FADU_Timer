@@ -4,6 +4,10 @@
 **NOTE THIS IS THE DEVELOPMENT BRANCH - THIS VERSION MAY OR MAY NOT HAVE UNEXPECTED ADDITIONAL "FEATURES" THAT CAUSE IT TO NOT WORK CORRECTLY**
 
 
+### 14-Mar-2021: 1.5.1 Bugfix
+
+1) Bugfix to PULSE R3 mode - Sonoff strikes again!  Router delays can cause an error if the pulse setup command is sent too soon after the previous ON command - an issue in Strips-mode in Auto.  Have temporarily forced a 2 second Delay be set on the Settings tab's Delay value, but this is just a quick fix until I can do something more elegant.
+
 
 ### 13-Mar-2021: 1.5.1 Final(?) 
 
